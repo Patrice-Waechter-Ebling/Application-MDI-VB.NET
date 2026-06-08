@@ -1,0 +1,401 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ApplicationMDI.NET
+</name>
+</assembly>
+<members>
+<member name="T:ApplicationMDI.NET.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000000">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000007">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000010">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000011">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000016">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000017">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000020">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000024">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000025">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000027">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000032">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000033">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000034">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000035">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000036">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000037">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000038">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000040">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000049">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000051">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._000000511">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000052">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000061">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000098">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000099">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000107">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000109">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000127">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000132">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000133">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000137">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000138">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000142">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000146">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000147">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000175">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000193">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000196">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000211">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000213">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000215">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000220">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000221">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000222">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000235">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000236">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000249">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000275">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000279">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000304">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000312">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000313">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000314">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000315">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000358">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000359">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000368">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000437">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000439">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000442">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000452">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000453">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000456">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000457">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000483">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000497">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000498">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000499">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000500">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000501">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000502">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000503">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000514">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources._00000519">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ApplicationMDI.NET.My.Resources.Resources.bmp7001">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
